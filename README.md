@@ -1,8 +1,8 @@
 
-![D3KRISH Git Stats](https://github-readme-stats.vercel.app/api?username=D3KRISH&include_all_commits=true&count_private=true&theme=highcontrast)
+![Imteyazking Git Stats](https://github-readme-stats.vercel.app/api?username=Imteyazking&include_all_commits=true&count_private=true&theme=highcontrast)
 
 <h4 align="center"><b>MY GITHUB STATS -💛</b></h4>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical
+
 ### Languages and Tools I Love ❤️
 
 
